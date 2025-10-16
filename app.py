@@ -65,21 +65,21 @@ else:
         f"""
         <div style='text-align: center; padding: 3px; background-color: ##2596be; border-radius: 10px; margin: 15px 0;'>
             <div style='display: flex; justify-content: left; gap: 10px; flex-wrap: wrap;'>
-                <div style='background-color: white; padding: 10px; border-radius: 8px; min-width: 70px;'>
+                <div style='background-color: white; padding: 5px; border-radius: 8px; min-width: 60px;'>
                     <h2 style='color: #FF4B4B; margin: 0; font-size: 32px;'>{dias}</h2>
                     <p style='margin: 2px 0 0 0; color: #666; font-size: 12px;'>Dias</p>
                 </div>
-                <div style='background-color: white; padding: 10px; border-radius: 8px; min-width: 70px;'>
+                <div style='background-color: white; padding: 5px; border-radius: 8px; min-width: 60px;'>
                     <h2 style='color: #FF4B4B; margin: 0; font-size: 32px;'>{horas:02d}</h2>
                     <p style='margin: 2px 0 0 0; color: #666; font-size: 12px;'>Horas</p>
                 </div>
-                <div style='background-color: white; padding: 10px; border-radius: 8px; min-width: 70px;'>
+                <div style='background-color: white; padding: 5px; border-radius: 8px; min-width: 60px;'>
                     <h2 style='color: #FF4B4B; margin: 0; font-size: 32px;'>{minutos:02d}</h2>
-                    <p style='margin: 2px 0 0 0; color: #666; font-size: 12px;'>Minutos</p>
+                    <p style='margin: 2px 0 0 0; color: #666; font-size: 12px;'>Min</p>
                 </div>
-                <div style='background-color: white; padding: 10px; border-radius: 8px; min-width: 70px;'>
+                <div style='background-color: white; padding: 5px; border-radius: 8px; min-width: 60px;'>
                     <h2 style='color: #FF4B4B; margin: 0; font-size: 32px;'>{segundos:02d}</h2>
-                    <p style='margin: 2px 0 0 0; color: #666; font-size: 12px;'>Segundos</p>
+                    <p style='margin: 2px 0 0 0; color: #666; font-size: 12px;'>Seg</p>
                 </div>
             </div>
         </div>
