@@ -15,7 +15,7 @@ st.set_page_config(
 # Configurar timezone de São Paulo
 TIMEZONE = pytz.timezone('America/Sao_Paulo')
 # Altere aqui para a data/hora desejada
-DATA_ALVO = TIMEZONE.localize(datetime(2025, 10, 17, 19, 30, 00))
+DATA_ALVO = TIMEZONE.localize(datetime(2025, 10, 16, 10, 00, 00))
 # Formato: datetime(ano, mês, dia, hora, minuto, segundo)
 # =====================================
 
